@@ -22,15 +22,12 @@ This is a simple website UI demo created for assignment.
 
 # 📸 Screenshots
 
-<p align="center">
-<img src="index1.png" width="45%">
-</p>
-<p align="center">
-<img src="index2.png" width="45%">
-</p>
-<p align="center">
-<img src="contact.png" width="45%">
-</p>
-<p align="center">
-<img src="about.png" width="45%">
-</p>
+
+index
+![alt text](index1.png)
+index
+![alt text](index2.png)
+about
+![alt text](about.png)
+contact
+![alt text](contact.png)
